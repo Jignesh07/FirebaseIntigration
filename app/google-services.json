@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294857871484",
+    "firebase_url": "https://fir-intigration.firebaseio.com",
+    "project_id": "fir-intigration",
+    "storage_bucket": "fir-intigration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294857871484:android:d4991de23396a2eb",
+        "android_client_info": {
+          "package_name": "com.example.admin.firebaseintigration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294857871484-kbimbnc82eb82835fttnvvg9lm45ksfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdXlT99r52KraWd2NNApUVNYE6ICBjgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
